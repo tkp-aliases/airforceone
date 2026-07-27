@@ -1,4 +1,4 @@
-from airforceone import *  # noqa
+from airforceone import *
 
 
 def test_all():
